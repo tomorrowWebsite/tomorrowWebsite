@@ -114,7 +114,7 @@
   <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> 
     <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> 
   
-  <img src="https://raw.githubusercontent.com/avinash-218/avinash-218/output/github-contribution-grid-snake.svg" alt="xd" width="100%" height="400"/>
-  
 </p>
 <img  height="800" width="100%"  src='https://raw.githubusercontent.com/Adam-pw/Adam-pw/main/animation_500_kxa883sd.gif'>
+
+  <img src="https://raw.githubusercontent.com/avinash-218/avinash-218/output/github-contribution-grid-snake.svg" alt="xd" width="100%" height="400"/>
