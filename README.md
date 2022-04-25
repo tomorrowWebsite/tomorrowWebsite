@@ -5,6 +5,7 @@
 - 📫 How to reach me ...
 - So I'm
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
 
 <h1 align="center">Hi 👋, I'm Hossam Rashad</h1>
 <h3 align="center">A passionate frontend developer from Egypt</h3>
